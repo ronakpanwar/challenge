@@ -18,14 +18,15 @@ cd simple-shopping-cart
 ---
 ▶️ Frontend Setup
 
-```bash
+cd frontend
 npm install
-npm run dev 
+npm start
 url:http://localhost:3000
 
 ---
 💻 Backend Setup
-```bash
+
+
 cd backend
 npm install
 node index.js
