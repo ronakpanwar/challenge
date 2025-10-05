@@ -26,7 +26,6 @@ url:http://localhost:3000
 ---
 💻 Backend Setup
 
-
 cd backend
 npm install
 node index.js
