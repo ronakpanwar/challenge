@@ -22,10 +22,14 @@ cd simple-shopping-cart
 npm install
 npm run dev 
 url:http://localhost:3000
+
 ---
 💻 Backend Setup
-
+```bash
 cd backend
 npm install
 node index.js
 url:http://localhost:4000
+
+
+
