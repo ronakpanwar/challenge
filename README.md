@@ -14,7 +14,13 @@ It allows users to see products, add them to a cart, update quantities, and simu
 git clone https://github.com/YOUR_USERNAME/simple-shopping-cart.git
 cd simple-shopping-cart
 
+---
+```md
+---
+### ▶️ Frontend Setup
 
-
+```bash
+npm install
+npm run dev 
 
 
